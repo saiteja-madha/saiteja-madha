@@ -5,6 +5,7 @@
 - 💼 &nbsp; Worked as a Software Enginner at Coforge.
 - 👨‍💻 &nbsp; I’m currently studying Software Engineering at Arizona State University.
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
+- 💬 &nbsp; Ask me anything about discord bots.
 - 🌱 &nbsp; I’m currently learning python.
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
