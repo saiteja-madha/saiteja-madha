@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&width=435&lines=Hey+there!+This+is+Sai+Teja)](https://github.com/saiteja-madha)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&width=435&lines=Hey!+This+is+Sai+Teja)](https://github.com/saiteja-madha)
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
