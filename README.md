@@ -2,7 +2,7 @@
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
-- 💼 &nbsp; Worked as a Software Enginner at Coforge.
+- 💼 &nbsp; Worked as a Software Enginner - Mulesoft.
 - 👨‍💻 &nbsp; I’m currently studying Software Engineering at Arizona State University.
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
 - 💬 &nbsp; Ask me anything about discord bots.
