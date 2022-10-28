@@ -2,9 +2,9 @@
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
-- 💼 &nbsp; Worked as a Software Enginner - Mulesoft.
+- 💼 &nbsp; Worked as a Mulesoft Software Enginner
 - 👨‍💻 &nbsp; I’m currently studying Software Engineering at Arizona State University.
-- 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
+- 🤔 &nbsp; I’m exploring new technologies and developing software solutions and quick hacks.
 - 💬 &nbsp; Ask me anything about discord bots.
 - 🌱 &nbsp; I’m currently learning python.
 
@@ -33,7 +33,7 @@
 
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=saiteja-madha&theme=buefy&show_icons=true" />
 
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saiteja-madha&theme=buefy&layout=compact&exclude_repo=procon-plugins" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saiteja-madha&theme=buefy&layout=compact&langs_count=10&hide=Shell&card_width=400" />
 
 </div>
 
