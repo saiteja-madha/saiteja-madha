@@ -2,11 +2,11 @@
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
-- 💼 &nbsp; Worked as a Mulesoft Software Enginner
-- 👨‍💻 &nbsp; I’m currently studying Software Engineering at Arizona State University.
-- 🤔 &nbsp; I’m exploring new technologies and developing software solutions and quick hacks.
+- 🏫 &nbsp; Software Engineer graduate at Arizona State University.
+- 🚀 &nbsp; Experienced in developing and deploying API's using MuleSoft Anypoint Platform.
+- 🤔 &nbsp; Open to collaborating with others on open-source projects and sharing knowledge.
 - 💬 &nbsp; Ask me anything about discord bots.
-- 🌱 &nbsp; I’m currently learning python.
+- 🌱 &nbsp; Currently learning python.
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
@@ -43,6 +43,6 @@
 
   ![](https://github-readme-streak-stats.herokuapp.com/?user=saiteja-madha&theme=dark)
   
-  <img src="https://activity-graph.herokuapp.com/graph?username=saiteja-madha&theme=react-dark&bg_color=20232a&hide_border=true" width="100%">
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=saiteja-madha&theme=react-dark&bg_color=20232a&hide_border=true" width="100%">
 
 </div>
