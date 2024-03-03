@@ -1,4 +1,9 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=2000&center=true&vCenter=true&width=520&lines=Talk+is+cheap.+Show+me+the+code)](https://git.io/typing-svg)
+
+<p align="center">
+  <a href="https://github.com/saiteja-madha">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=2000&center=true&vCenter=true&width=520&lines=Software+Engineer+Graduate;Backend+Developer;Freelancer">
+  </a>
+</p>
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
@@ -40,9 +45,9 @@
 
 <div align="center">
 
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=saiteja-madha&theme=buefy&show_icons=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=saiteja-madha&theme=dark&show_icons=true" />
 
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saiteja-madha&theme=buefy&layout=compact&langs_count=10&hide=Shell&card_width=400" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saiteja-madha&theme=dark&layout=compact&langs_count=10&hide=Shell&card_width=400" />
 
 </div>
 
@@ -52,6 +57,6 @@
 
   ![](https://github-readme-streak-stats.herokuapp.com/?user=saiteja-madha&theme=dark)
   
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=saiteja-madha&theme=react-dark&bg_color=20232a&hide_border=true" width="100%">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=saiteja-madha&theme=merko&line=1391CF&bg_color=20232a&hide_border=true&custom_title=My+Contribution+Graph" width="100%">
 
 </div>
