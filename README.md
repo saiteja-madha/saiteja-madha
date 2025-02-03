@@ -8,7 +8,7 @@
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
 - 🏫 &nbsp; Software Engineer graduate at Arizona State University.
-- 🚀 &nbsp; Experienced in developing and deploying API's using MuleSoft Anypoint Platform.
+- 🚀 &nbsp; Experienced in developing and deploying full stack apps using JS/TS & Python.
 - 🤔 &nbsp; Open to collaborating with others on open-source projects and sharing knowledge.
 - 💬 &nbsp; Ask me anything about discord bots.
 - 🌱 &nbsp; Currently learning Docker and Kubernetes.
